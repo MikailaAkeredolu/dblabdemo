@@ -1,0 +1,2 @@
+-- SELECT SUM(id) AS sum, AVG(id) AS avg FROM people;
+-- Explanation : calculates the sum of the id's and the average of the id's
